@@ -130,7 +130,7 @@ header {
 }
 
 .hero {
-  background: #d1cec6;
+  background: #edeadf;
   padding: 4rem 0;
 }
 
@@ -231,7 +231,7 @@ header {
 }
 
 .services {
-  background: #879287;
+  background: #b9c2b9;
   padding: 4rem 0;
 }
 
@@ -252,7 +252,7 @@ header {
 
 /* Projects Section */
 .projects {
-  background: #a69bc5;
+  background: #d7d2e8;
   padding: 4rem 0;
 }
 
@@ -294,7 +294,7 @@ header {
 
 /* Skills Section */
 .skills {
-  background: #949a85;
+  background: #d4dbc4;
   padding: 4rem 0;
 }
 
@@ -326,7 +326,7 @@ header {
 
 /* Interests Section */
 .interests {
-  background: #cfb0b0;
+  background: #c2efd0;
   padding: 4rem 0;
 }
 
@@ -412,7 +412,7 @@ header {
 
 .footer {
   background: #222;
-  color: #fff;
+  color: #91968a;
   text-align: center;
   padding: 0.5rem 0;
   margin-top: 2rem;
